@@ -59,7 +59,6 @@
 | Boing | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=200&height=200) | Boing.TV | NONAV |
 | Clan | [m3u8](https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8) | [web](https://www.rtve.es/infantil/directo/) | [logo](https://graph.facebook.com/clantve/picture?width=200&height=200) | Clan.TV | - |
 | Pocoyó | [youtube](https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live) | [web](https://www.pocoyo.com/) | [logo](https://graph.facebook.com/pocoyo/picture?width=200&height=200) | - | EMB |
-| Warner Bros Kids | [youtube](https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live) | [web](https://www.wbkidsgo.com/) | [logo](https://graph.facebook.com/WarnerBrosPicturesEspana/picture?width=200&height=200) | - | EMB |
 
 ## Eventuales
 
@@ -201,7 +200,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Cantabria TV | [youtube](https://www.youtube.com/channel/UC0sXB5ZoIoXWvqdizegaifg/live) | [web](http://www.vegavision.tv/blog/section/television1) | [logo](https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200) | - | EMB |
-| Popular TV Cantabria | [m3u8](https://secure5.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
+| Popular TV Cantabria | [m3u8](https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
 
 ### Castilla-La Mancha
 
@@ -589,7 +588,6 @@
 | American Horrors Movies | [m3u8 # EN](http://170.178.189.70:1935/live/Stream1/playlist.m3u8) | [web](http://www.americanhorrors.com/) | [logo](https://graph.facebook.com/AMERICANHORRORS/picture?width=200&height=200) | - | - |
 | Cachipum TV | [m3u8](http://23.236.180.26/11580409776/live/playlist.m3u8) | [web](http://cachipum.tv/) | [logo](https://graph.facebook.com/cachipumtv/picture?width=200&height=200) | - | - |
 | ACS Network | [m3u8](https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8) | [web](https://acsnetwork.tv/) | [logo](https://graph.facebook.com/acsnetworktv/picture?width=200&height=200) | - | - |
-| Mr Bean 24h | [youtube # EN](https://www.youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg/live) | [web](https://www.mrbean.com/) | [logo](https://graph.facebook.com/MrBean/picture?width=200&height=200) | - | EMB |
 | Rathergood LoL | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=96&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/lol/) | [logo](https://rathergood.co.uk/wp-content/uploads/2019/11/Capture-260x180.png) | - | - |
 | Emmanuel TV | [m3u8 # EN](https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8) | [web](https://emmanuel.tv/es/en-vivo/) | [logo](https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200) | - | NONAV |
 
@@ -670,9 +668,9 @@
 | Portalfoxmix | [m3u8](https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8) | [web](https://www.portalfoxmix.cl/web/) | [logo](https://graph.facebook.com/portalfoxmixtv/picture?width=200&height=200) | - | - |
 | La Mega Mundial | [m3u8](https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8) | [web](https://www.lamegamundial.com/) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | - |
 | Latinos 1 TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8) | [web](https://www.latinos1.tv/) | [logo](https://graph.facebook.com/televisionsuiza/picture?width=200&height=200) | - | - |
-| Radio Italia TV | [m3u8 # IT](https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8) | [web](https://www.radioitalia.it/radioitaliatv) | [logo](https://graph.facebook.com/radioitalia/picture?width=200&height=200) | - | - |
-| RTL 102.5 Italia | [m3u8 # IT](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | [web](https://www.rtl.it/radiovisione) | [logo](https://graph.facebook.com/RTL102.5/picture?width=200&height=200) | - | - |
-| Otto FM Italia | [m3u8 # IT](http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8) | [web](http://ottofm.com/otto-fm-tv-limpronta-digitale-degli-anni-ottanta/) | [logo](https://graph.facebook.com/Ottotivu/picture?width=200&height=200) | - | - |
+| Radio Italia TV | [m3u8 # IT](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | [web](https://www.rtl.it/radiovisione) | [logo](https://graph.facebook.com/RTL102.5/picture?width=200&height=200) | - | - |
+| RTL TV Italia | [m3u8 # IT](http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8) | [web](http://ottofm.com/otto-fm-tv-limpronta-digitale-degli-anni-ottanta/) | [logo](https://graph.facebook.com/Ottotivu/picture?width=200&height=200) | - | - |
+| 8 FM Italia | [m3u8 # IT](http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8) | [web](http://ottofm.com/otto-fm-tv-limpronta-digitale-degli-anni-ottanta/) | [logo](https://graph.facebook.com/Ottotivu/picture?width=200&height=200) | - | - |
 | Rock TV Romania | [m3u8 # RO](https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8) | [web](https://www.rockfm.ro/rocktv) | [logo](https://graph.facebook.com/RockTvRomania/picture?width=200&height=200) | - | NONAV |
 | RadioU TV | [m3u8 # EN](https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8) | [web](https://radiou.com/tv/) | [logo](https://graph.facebook.com/RadioU/picture?width=200&height=200) | - | - |
 | Spirit TV | [m3u8 # EN](https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8) | [web](https://myspirit.tv/) | [logo](https://graph.facebook.com/MySpirittv/picture?width=200&height=200) | - | - |
